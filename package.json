@@ -1,0 +1,13 @@
+{
+  "name": "appdirect-challenge",
+  "dependencies": {
+    "twitter-proxy": "^2.0.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": "6.3.1"
+  }
+}
+
